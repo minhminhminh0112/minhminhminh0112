@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Minh! 👋
 
-<!--
-**minhminhminh0112/minhminhminh0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist focusing on applied AI
+Transitioning from Data Analyst to Data Scientist, I bring 2 years of experience in Machine Learning, primarily focused on outlier detection. Recently, I’ve also started building front-end interfaces for chatbots and exploring prompt engineering. As an AI enthusiast, I'm passionate about accelerating the adoption of AI technologies.
 
-Here are some ideas to get you started:
+#### Education
+- Masters in Data Science, Hochschule Harz
+- Bachelors in Betriebswirtschaftslehre, Universität zu Köln
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Toolbox 🛠️
+- **Languages**: Python, TypeScript, SQL
+- **Frameworks and Libraries**: PyTorch
+- **Tools**: Azure, Git
+
+🌱 I'm currently delving into Transformer architectures, exploring Prompt Engineering techniques, and diving into the exciting new world of AI Agents.
+
