@@ -7,7 +7,7 @@ Transitioning from Data Analyst to Data Scientist, I bring 2 years of experience
 - Masters in Data Science, Hochschule Harz
 - Bachelors in Betriebswirtschaftslehre, Universität zu Köln
 
-### Tech Toolbox 🛠️
+#### Tech Toolbox 🛠️
 - **Languages**: Python, TypeScript, SQL
 - **Frameworks and Libraries**: PyTorch
 - **Tools**: Azure, Git
