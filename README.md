@@ -9,7 +9,7 @@ Transitioning from Data Analyst to Data Scientist, I bring 2 years of experience
 
 #### Tech Toolbox 🛠️
 - **Languages**: Python, TypeScript, SQL
-- **Frameworks and Libraries**: PyTorch
+- **Frameworks and Libraries**: PyTorch, scikit-learn, pandas, numpy, matplotlib
 - **Tools**: Azure, Git
 
 🌱 I'm currently delving into Transformer architectures, exploring Prompt Engineering techniques, and diving into the exciting new world of AI Agents.
